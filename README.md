@@ -1,2 +1,3 @@
-# Deep-Space-Theme
-Dark Visual Studio Code Theme
+# deep-space-theme README
+
+Dark Theme for Visual Studio Code.
